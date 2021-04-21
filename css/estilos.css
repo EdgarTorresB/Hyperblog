@@ -47,10 +47,8 @@ body
 }
 #post
 {
-<<<<<<< HEAD
     background: white;
     padding: 1cm;
-=======
     padding: 1cm;
 }
 #footer
@@ -59,5 +57,4 @@ body
     color: white;
     text-align: center;
     padding: 0.5cm;
->>>>>>> 04eb1e351e70c47e3c990833f7d62fa4e78f8fed
 }
